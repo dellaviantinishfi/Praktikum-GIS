@@ -7,4 +7,3 @@ SOAL 2
 SOAL 3
 ![3](https://user-images.githubusercontent.com/61672886/142193631-a009137b-8510-4756-9e40-934bacd7f067.JPG)
 SOAL 4
-![4](https://user-images.githubusercontent.com/61672886/142193713-096d88f6-3b76-4293-b67c-0f20e9452b02.JPG)
