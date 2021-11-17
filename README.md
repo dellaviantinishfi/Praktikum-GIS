@@ -1,5 +1,5 @@
 # Praktikum-GIS
-Tugas SI Geografis
+Screnshoot Hasil File Pyshp Pyhton
 SOAL 1
 ![1](https://user-images.githubusercontent.com/61672886/142193586-92a173a7-ab62-46fa-9584-47ed4b660844.JPG)
 
